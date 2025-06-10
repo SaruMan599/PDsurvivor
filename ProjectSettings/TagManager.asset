@@ -2,19 +2,24 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Projectile
+  - Obstacle
+  - Environment
+  - Chest
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Background
+  - Enemy
+  - Objects
+  - UIpanels
   - 
   - 
   - 
@@ -41,3 +46,17 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Weapons
+    uniqueID: 2466251199
+    locked: 0
+  - name: EnemyAttack
+    uniqueID: 4183625903
+    locked: 0
+  - name: Player
+    uniqueID: 515834867
+    locked: 0
+  - name: UI
+    uniqueID: 2218042773
+    locked: 0
+  m_RenderingLayers:
+  - Default

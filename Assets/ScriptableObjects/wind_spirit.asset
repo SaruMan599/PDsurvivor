@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3acc6035ac24df444a2880389582dce4, type: 3}
+  m_Name: wind_spirit
+  m_EditorClassIdentifier: 
+  artifactName: "\u041C\u0430\u043B\u044B\u0439 \u0434\u0443\u0445 \u0432\u0435\u0442\u0440\u0430"
+  description: "+20% \u043A \u0441\u043A\u043E\u0440\u043E\u0441\u0442\u0438, +10%
+    \u043A \u0443\u043A\u043B\u043E\u043D\u0435\u043D\u0438\u044E"
+  icon: {fileID: -48966120, guid: 9840854eebf9e7a4582ef9254266f741, type: 3}
+  rarity: 1
+  attackPercentBonus: 0
+  cooldownReductionPercent: 0
+  projectileSizePercent: 0
+  moveSpeedPercent: 20
+  dodgeChancePercent: 0
+  critChancePercent: 0
+  critDamagePercent: 0
+  pickupRangePercent: 0
+  maxHealthPercent: 0
+  damageReductionPercent: 0
+  attackFlatBonus: 0
+  maxHealthFlatPenalty: 0
